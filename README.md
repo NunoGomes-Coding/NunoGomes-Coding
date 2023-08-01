@@ -1,24 +1,43 @@
-<div align="center">
-  <a href="https://github.com/nunogomes-coding">
-  <img src="https://github-readme-stats.vercel.app/api?username=nunogomes-coding&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunogomes-coding&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/77457745" width="256">
+</p>
 
-<div style="display: inline_block"><br>
-	<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-	<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-	<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-</div>
+<p align="center">
+  <a href="https://nunogomes.netlify.app/"><!--
+  --><img src="https://static.jonaskohl.de/dynamic_images/badge.php?label=Visit+my+Website%21&fg=%23fff&bg=%235E78E4&_cacheBuster=2" alt="Visit my website!"><!--
+--></a>
+<!--<a href="https://card.jonaskohl.de/c/jonaskohl">
+	<img src="https://static.jonaskohl.de/dynamic_images/badge.php?label=See+my+GitCard%21&fg=%23000&bg=%23e8f044&_cacheBuster=2" alt="See my GitCard!">
+	</a>-->
+</p>
 
-##
+<p align="center">
+<!--  <a href="https://instagram.com/jonaskohl13">
+	  <img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/socials/instagram.svg" alt="Instagram">
+  </a>
+  &nbsp;
+  <a href="https://keybase.io/jonaskohl">
+	  <img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/socials/keybase.svg" alt="Keybase">
+  </a>
+  &nbsp;-->
+  <a href="mailto:a8893@oficina.pt">
+	  <img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/socials/email.svg" alt="Email">
+  </a>
+</p>
 
-<div>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="mailto:a8893@oficina.pt"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/nunogomes-coding/nunogomes-coding/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<p>
+  <img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/hr.svg" width=100% height=2 alt="Horizontal break">
+  <br><br>
+</p>
+
+<p align="center">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nunogomes-coding&show_icons=true&layout=compact&hide_border=true&title_color=5E78E4&bg_color=0D1117&theme=dark&text_color=c9d1d9&rank_icon=github">
+  <img valign="top" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunogomes-coding&show_icons=true&layout=compact&hide_border=true&title_color=5E78E4&bg_color=0D1117&theme=dark&text_color=c9d1d9&rank_icon=percentile">
+	<br><br>
+</p>
+
+<!--
+<p align="center">
+	<img valign="top" alt="Most used languages" src="https://github.com/nunogomes-coding/nunogomes-coding/blob/output/github-contribution-grid-snake.svg">
+</p>
+-->
