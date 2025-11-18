@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nunogomes.netlify.app/"><!--
+  <a href="https://www.nunocrgomes.com/"><!--
   --><img src="https://static.jonaskohl.de/dynamic_images/badge.php?label=Visit+my+Website%21&fg=%23fff&bg=%235E78E4&_cacheBuster=2" alt="Visit my website!"><!--
 --></a>
 <!--<a href="https://card.jonaskohl.de/c/jonaskohl">
@@ -20,7 +20,7 @@
 	  <img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/socials/keybase.svg" alt="Keybase">
   </a>
   &nbsp;-->
-  <a href="mailto:a8893@oficina.pt">
+  <a href="mailto:nunocrgomes@gmail.com">
 	  <img src="https://raw.githubusercontent.com/jonaskohl/jonaskohl/master/img/socials/email.svg" alt="Email">
   </a>
 </p>
