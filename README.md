@@ -29,15 +29,6 @@
 * **LevelEstate** — Full-stack real estate platform with a **.NET 8 API**, Angular frontend, Android client, JWT authentication, WebSockets, Docker, and GitLab CI/CD.
 * **Distributed Traffic Control** — Distributed traffic simulation using independent socket-based processes, multiple traffic-light strategies, and live monitoring.
 
-### What I'm Into
-
-* Backend & distributed systems
-* CI/CD & automation
-* Docker & self-hosted infrastructure
-* Machine learning & computer vision
-* Cloud & scalable architectures
-* Building things and figuring out how they work
-
 ### Find Me
 
 [Website](https://nunocrgomes.com) · [LinkedIn](https://www.linkedin.com/in/nunocrgomes/)
